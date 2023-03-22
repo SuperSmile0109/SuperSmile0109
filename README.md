@@ -55,9 +55,6 @@ And I have rich experience with YieldFarming and Dex platforms like Pancakeswap 
   </a> 
 
 
-<!--   GitHub stats graph -->
-![supersmile0109's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=supersmile0109&hide_border=true&theme=github-light)
-
 ### 💗 My Favorites Techs:
 
 ![](https://img.shields.io/badge/Network-BitCoin-informational?style=flat&logo=bitcoin&logoColor=white&color=3bac3a)

@@ -1,4 +1,5 @@
 ### <h1 align="center">Hi 👋, I'm a Professional Blockchain & Full Stack developer.</h1>
+
   <!-- [<img align="left" alt="Techrate | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
   [<img align="left" alt="Techrate | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram] -->
   <img src="https://komarev.com/ghpvc/?username=chinmay29hub&label=Profile%20views&color=0e75b6&style=flat" alt="super9381" />
@@ -18,11 +19,9 @@ I had already built so many Websites with the mentioned skill.
 
 And I have rich experience with YieldFarming and Dex platforms like Pancakeswap Finance, Olympus Dao, SushiSwap, Uniswap, Tomb Finance, Titano .
 
-
  <div>
   <img align="right" alt="GIF" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="500" height="320" />
 </div>
-
 
 ### Connect with me:
 
@@ -43,7 +42,7 @@ And I have rich experience with YieldFarming and Dex platforms like Pancakeswap 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
- <a href="https://github.com/Super-Smile/github-readme-stats">
+ <!-- <a href="https://github.com/Super-Smile/github-readme-stats">
     <img
       height="150"
       src="https://github-readme-stats.vercel.app/api?username=Super-Smile&count_private=true&show_icons=true&custom_title=SuperSmile0109's%20Github%20Status&hide=issues&theme=buefy&hide_border=true"
@@ -52,8 +51,7 @@ And I have rich experience with YieldFarming and Dex platforms like Pancakeswap 
     <img
       height="150"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Super-Smile&layout=compact&theme=buefy&hide_border=true" />
-  </a> 
-
+  </a>  -->
 
 ### 💗 My Favorites Techs:
 

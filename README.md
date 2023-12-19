@@ -26,8 +26,6 @@ And I have rich experience with YieldFarming and Dex platforms like Pancakeswap 
 ### Connect with me:
 
 - 💬 SkypeID : [live:.cid.f0d117f6fd70c986]
-- 💬 Telegram : [@SuperSmile0109]
-- 📧 Email : super9381@outlook.com
 
 ### Languages and Tools:
 
